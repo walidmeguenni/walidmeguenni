@@ -1,6 +1,6 @@
 ## Hi there, I'm Walid Meguenni
 
-![Profile views](https://portfolio-walid.vercel.app)
+[![Profile views](https://portfolio-walid.vercel.app)](https://portfolio-walid.vercel.app)
 [![Github](https://img.shields.io/github/followers/walidmeguenni?label=Follow&style=social)](https://github.com/walidmeguenni)
 
 ### A passionate software engineer with a passion for coding and a constant drive to learn and explore new technologies.
@@ -8,14 +8,17 @@
 ---
 
 ### 📧 Contact me
+
 [![](https://img.shields.io/badge/Gmail-walid.meguenni.careers@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:merabet.abdelkarim.dev@gmail.com)
 
 ---
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-meguenni)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-meguenni)
 
 ---
+
 ### Languages and tools
 
 ![js](https://skillicons.dev/icons?i=js)
@@ -50,4 +53,3 @@
 ### My Roadmap.sh profile
 
 [![roadmap.sh](https://roadmap.sh/card/tall/64cf62b30d755ccbebe1b378?variant=dark)](https://roadmap.sh)
-
