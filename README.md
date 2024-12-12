@@ -1,6 +1,6 @@
 ## Hi there, I'm Walid Meguenni
 
-[![Profile views]( https://img.shields.io/badge/MyPorfolio)](https://walid-meguenni.onrender.com/)
+[![Profile views](https://img.shields.io/badge/My-Porfolio)](https://walid-meguenni.onrender.com/)
 [![Github](https://img.shields.io/github/followers/walidmeguenni?label=Follow&style=social)](https://github.com/walidmeguenni)
 
 ### A passionate software engineer with a passion for coding and a constant drive to learn and explore new technologies.
