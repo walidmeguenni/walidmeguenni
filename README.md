@@ -1,6 +1,6 @@
 ## Hi there, I'm Walid Meguenni
 
-[![Profile views](https://portfolio-walid.vercel.app)](https://portfolio-walid.vercel.app)
+[![Profile views](https://walid-meguenni.onrender.com/)](https://walid-meguenni.onrender.com/)
 [![Github](https://img.shields.io/github/followers/walidmeguenni?label=Follow&style=social)](https://github.com/walidmeguenni)
 
 ### A passionate software engineer with a passion for coding and a constant drive to learn and explore new technologies.
